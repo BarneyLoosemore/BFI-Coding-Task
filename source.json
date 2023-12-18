@@ -1,0 +1,14 @@
+{
+  "Brad Pitt": ["cast", "Once Upon a Time...in Hollywood"],
+  "Quentin Tarantino": ["director", "Once Upon a Time...in Hollywood"],
+  "Leonardo DiCaprio": ["cast", "Once Upon a Time...in Hollywood"],
+  "Margot Robbie": ["cast", "Once Upon a Time...in Hollywood"],
+  "Ray Liotta": ["cast", "Goodfellas"],
+  "Martin Scorsese": ["director", "Goodfellas"],
+  "Robert De Nero": ["cast", "Goodfellas"],
+  "Joe Pesci": ["cast", "Goodfellas"],
+  "William Holden": ["cast", "The Wild Bunch"],
+  "Ernest Borgnine": ["cast", "The Wild Bunch"],
+  "Sam Peckinpah": ["director", "The Wild Bunch"],
+  "Robert Ryan": ["cast", "The Wild Bunch"]
+}
